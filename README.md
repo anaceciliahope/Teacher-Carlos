@@ -107,6 +107,8 @@ Password   *(vazio)*
 -   Aluno pode ter várias notas.\
 -   Banco em memória.\
 -   Relatórios usam média simples.\
+-   Para este desafio técnico, foram implementadas apenas as funcionalidades essenciais para demonstrar com clareza as habilidades solicitadas: **Cadastro de alunos**, **Listagem de alunos**, **Relatórios das notas e médias**
+-   Não foram desenvolvidas operações de **edição** ou **exclusão** de alunos, pois o escopo definido já é suficiente para exibir domínio das tecnologias, da arquitetura proposta e da capacidade de resolver o problema conforme solicitado pela empresa.
 
 ------------------------------------------------------------------------
 
