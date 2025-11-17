@@ -45,23 +45,5 @@ public class AlunoController {
                 .collect(Collectors.toList());
     }
 
-    // READ - GET /alunos/{id}
-    @GetMapping("/{id}")
-    public Aluno buscarAluno(@PathVariable Long id) {
-        return null;
-    }
-
-    // UPDATE - PUT /alunos/{id}
-    @PutMapping("/{id}")
-    public Aluno atualizarAluno(@PathVariable Long id, @RequestBody AlunoRequestDTO alunoAtualizado) {
-        Aluno aluno = buscarAluno(id);
-        return aluno;
-    }
-
-    // DELETE - DELETE /alunos/{id}
-    @DeleteMapping("/{id}")
-    public void deletarAluno(@PathVariable Long id) {
-
-    }
 
 }
