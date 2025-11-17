@@ -107,7 +107,7 @@ Password   *(vazio)*
 -   Aluno pode ter várias notas.\
 -   Banco em memória.\
 -   Relatórios usam média simples.\
--   Para este desafio técnico, foram implementadas apenas as funcionalidades essenciais para demonstrar com clareza as habilidades solicitadas: **Cadastro de alunos**, **Listagem de alunos**, **Relatórios das notas e médias**
+-   Para este desafio técnico, foram implementadas apenas as funcionalidades essenciais para demonstrar com clareza as habilidades solicitadas: **Cadastro de alunos**, **Listagem de alunos**,**Relatórios das notas e médias**
 -   Não foram desenvolvidas operações de **edição** ou **exclusão** de alunos, pois o escopo definido já é suficiente para exibir domínio das tecnologias, da arquitetura proposta e da capacidade de resolver o problema conforme solicitado pela empresa.
 
 ------------------------------------------------------------------------
@@ -118,6 +118,12 @@ Password   *(vazio)*
 -   Enum para disciplina.\
 -   Relatórios separados para melhor organização.\
 -   H2 para ambiente de testes.
+
+------------------------------------------------------------------------
+
+# 🗃️ Acesso API Swagger
+
+URL: http://localhost:8080/swagger-ui/index.html#/
 
 ------------------------------------------------------------------------
 
